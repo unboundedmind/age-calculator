@@ -103,7 +103,7 @@
     /* Updated .grid: use flex to keep input + buttons in one row */
     .grid {
       display: flex;
-      align-items: flex-end;
+      align-items: center;
       gap: 14px;
       flex-wrap: wrap;
     }
